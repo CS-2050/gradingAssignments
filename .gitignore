@@ -1,0 +1,11 @@
+
+# For ignoring all data-containing files for privacy reasons
+*.json
+!spec/*.json
+
+*.csv
+!spec/*.csv
+
+
+*.xlsx
+!spec/*.xlsx
