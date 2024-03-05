@@ -35,6 +35,7 @@ This is all just a brainstorm of possibilities and by no means what will be put 
 
 
 
+- [ ] Auto propogate questions or auto pull from gradescope?
 
 ```python
 
